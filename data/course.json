@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "legacy_uid": "6ddaf44e-46e3-e2e0-b16a-7aec7f3f805f",
+  "instructors": {
+    "content": [
+      "1c8c58bb-aee0-a71d-8fc6-edac01b07d0d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "59689ad4-d39c-cc71-f518-17ccc333afe7",
+    "website": "cms-616j-games-and-culture-fall-2014"
+  },
+  "course_title": "Games and Culture",
+  "course_description": "This course examines the social, cultural, economic, and political aspects of digital games. Topics include the socio-technical aspects of digital gaming, embodiment and space, communities, spectatorship and performance, gender, race, sexuality, e-sports and sports games, and the politics and economics of production processes, including co-creation and intellectual property.\n",
+  "department_numbers": [
+    "CMS-W",
+    "WGS"
+  ],
+  "extra_course_numbers": "21W.768,WGS.125,CMS.868",
+  "primary_course_number": "CMS.616J",
+  "course_image_thumbnail": {
+    "content": "925ee5f6-7d3c-94b9-2b3c-3d1bd5331e9d",
+    "website": "cms-616j-games-and-culture-fall-2014"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "4f9a4c1d-a5ef-489f-b7bf-f23d6ff0e75a",
+  "site_short_id": "cms.616j-fall-2014",
+  "site_url_path": "courses/cms-616j-games-and-culture-fall-2014",
+  "title": "Course Metadata"
+}

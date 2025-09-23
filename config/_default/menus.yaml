@@ -1,0 +1,27 @@
+leftnav:
+- identifier: 448e252d-1e15-cb31-5640-30caef857c79
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b3a0ae1e-0e97-1958-0867-f6547bb27f49
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 16c9e7c0-7311-076c-5e71-a29e08b6ae45
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: c8104c15-d8f3-b08f-f266-9131bda05a8a
+  name: Mid-term Paper
+  pageRef: /pages/assignments/mid-term-paper
+  parent: 16c9e7c0-7311-076c-5e71-a29e08b6ae45
+  weight: 40
+- identifier: 72beac07-2bf3-9033-abb6-95c175713ed0
+  name: Final Paper
+  pageRef: /pages/assignments/final-paper
+  parent: 16c9e7c0-7311-076c-5e71-a29e08b6ae45
+  weight: 50
+- identifier: 9dc3c7e0-4c78-f561-387e-60fd53c4c73e
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
