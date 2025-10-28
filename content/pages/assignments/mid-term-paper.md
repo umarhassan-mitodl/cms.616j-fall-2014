@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides guidelines and instructions for the mid-term paper
   required for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -20,13 +18,13 @@ For your mid-term project you will select from one of the themes we've covered u
 
 ### Format
 
-The format for the assignment will be slightly different than a straightforward written paper you hand in. You will be creating an argument based around multimedia texts online which you will embed into your online essay. The format is inspired by the [In Media Res Project](http://mediacommons.futureofthebook.org/imr/) where authors pick a short clip (often from YouTube) and respond to it.
+The format for the assignment will be slightly different than a straightforward written paper you hand in. You will be creating an argument based around multimedia texts online which you will embed into your online essay. The format is inspired by the {{% resource_link "75890f87-d1a9-4315-b83f-5d9d57e49907" "In Media Res Project" %}} where authors pick a short clip (often from YouTube) and respond to it.
 
 ### Specs
 
 1.  Your mid-term will extend this so you are working with a number of short clips (minimum 3) interspersed through your piece—using them as reflection prompts, illustrations, jumping off points in making your argument. The mid-term should be written as an online essay, complete with the embedded videos and any other images, links, etc. you may want to use to illustrate your argument and make for a good presentation. In addition to the content you are also responsible for making sure the formatting "works" so do not wait till the last minute to check your embedded video.
-2.  You should also engage with (i.e. draw on, cite, quote) at least 3 peer-reviewed scholarly articles related to your topic. One can be drawn from our class readings but the additional ones should come from your independent lit search. If you are unsure of where to find good game studies articles you can check out [my resource page](http://tltaylor.com/teaching/research-resources-for-students/).
-3.  You should use the Chicago Manual of Style conventions for [quoting and citing work](http://cmsw.mit.edu/writing-and-communication-center/citation-formats/).
+2.  You should also engage with (i.e. draw on, cite, quote) at least 3 peer-reviewed scholarly articles related to your topic. One can be drawn from our class readings but the additional ones should come from your independent lit search. If you are unsure of where to find good game studies articles you can check out {{% resource_link "fe7b3937-970c-47ff-9abf-6ddd76656ffa" "my resource page" %}}.
+3.  You should use the Chicago Manual of Style conventions for {{% resource_link "76b0c195-f97e-4d08-8f58-e2f427c77526" "quoting and citing work" %}}.
 4.  Your overall word count for the piece should be 2500 words (+/- 10% is fine though writing to the spec, by scoping your argument, is an important part of the task).
 
 ### Online Work

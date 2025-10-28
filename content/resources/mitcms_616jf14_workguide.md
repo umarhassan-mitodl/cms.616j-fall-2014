@@ -5,8 +5,6 @@ description: Guidelines for an assignment to bring a printed color photo ofwhere
 file: /courses/cms-616j-games-and-culture-fall-2014/d10a5dbe4410288f31f88325b1e93ecf_MITCMS_616JF14_WorkGuide.pdf
 file_size: 68232
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

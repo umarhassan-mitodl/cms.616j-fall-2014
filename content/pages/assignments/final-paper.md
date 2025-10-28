@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides guidelines and instructions for the final paper
   required for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -23,8 +21,8 @@ A key factor in this assignment is that you demonstrate a rigorous, scholarly an
 ### Format & Specs
 
 1.  The format for the assignment will be similar to the mid-term in that you will be creating an argument that includes multimedia (videos, images, etc.), which you will embed into your online essay (minimum of 4). They should serve as jumping off points, reflection prompts, illustrations, or evidence for your argument. In addition to the content you are also responsible for making sure the formatting "works" so do not wait till the last minute to check your embedded video. Please also make sure label the media appropriately (title and URL you found it).
-2.  You should engage with (i.e. draw on, cite, quote) at least 5 peer-reviewed scholarly articles related to your topic. Your work should be situated within a community of research, and your literature engagement should be framed accordingly. One can be drawn from our class readings but the additional ones should come from your independent lit search. Robust engagement with prior research involves actively integrating it into your argument (not simply dropping in a citation in passing). If you are unsure of where to find good game studies articles you can check out [my resource page](http://tltaylor.com/teaching/research-resources-for-students/).
-3.  You should use the Chicago Manual of Style conventions for [quoting and citing work](http://cmsw.mit.edu/writing-and-communication-center/citation-formats/).
+2.  You should engage with (i.e. draw on, cite, quote) at least 5 peer-reviewed scholarly articles related to your topic. Your work should be situated within a community of research, and your literature engagement should be framed accordingly. One can be drawn from our class readings but the additional ones should come from your independent lit search. Robust engagement with prior research involves actively integrating it into your argument (not simply dropping in a citation in passing). If you are unsure of where to find good game studies articles you can check out {{% resource_link "fe7b3937-970c-47ff-9abf-6ddd76656ffa" "my resource page" %}}.
+3.  You should use the Chicago Manual of Style conventions for {{% resource_link "76b0c195-f97e-4d08-8f58-e2f427c77526" "quoting and citing work" %}}.
 4.  Your overall word count for the piece should be 4500 words (+/- 10% is fine)
 
 ### Presentation
